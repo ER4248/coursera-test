@@ -2,17 +2,17 @@
     box-sizing: border-box;
     width: 95%;
     align-self: center;
-    margin-right: auto;
-    margin-left: auto;
+    margin: auto;
 
     font-family: 'Comic Sans MS';
-    font-size: 15px;
+    font-size: 20px;
     font-weight: bold;
 }
 
 div.header {
     text-align: center;
     font-size: 1.75em;
+    padding-bottom: 25px;
 }
 
 p {
